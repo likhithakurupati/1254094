@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company name="TCS">
+<domain name="RETAIL">
+<account>WOOLWORTH</account>
+<account>WALMART</account>
+<account>OPTIMERA</account>
+<account>M&S</account>
+</domain>
+<domain name="BFS">
+<account>CITI BANK</account>
+<account>BANK OF AMERICA</account>
+</domain>
+</company>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<president name="pranab">
+  <primeminister name="modi">
+   <chiefminister name="AP">
+	<minister>MUNICIPLE</minister>
+	<minister>FOOD SUPPLIES</minister>
+	<minister>FINANCE</minister>
+	<minister>HOME DEPARTMENT</minister>
+   </chiefminister>
+   <chiefminister name="TN">
+	<minister>DEFENCE</minister>
+	<minister>CULTURE</minister>
+	<minister>CORPORATE AFFAIRS</minister>
+   </chiefminister>
+   <chiefminister name="KERALA">
+	<minister>CHEMICAL FERTILIZERS</minister>
+	<minister>AGRICULTURE</minister>
+	<minister>COMMERCE AND INDUSTRY</minister>
+   </chiefminister>
+   <chiefminister name="KARNATAKA">
+	<minister>EDUCATION</minister>
+	<minister>EARTH SCIENCES</minister>
+	<minister>ENVIRONMENT AND FOREST</minister>
+   </chiefminister>
+   <chiefminister name="TELANGANA">
+	<minister>EXCTERNAL AFFAIRS</minister>
+	<minister>HEALTH AND FAMILY WELFARE</minister>
+	<minister>HEAVY INDUSTRIES</minister>
+   </chiefminister>
+   <chiefminister name="GOA">
+	<minister>TOURISM</minister>
+	<minister>PUBLIC ENTERPRISES</minister>
+	<minister>LABOUR</minister>
+   </chiefminister>
+  </primeminister>
+</president>

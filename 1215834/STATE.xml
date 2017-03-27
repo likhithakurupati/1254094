@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country name="INDIA">
+<state name="AP">
+<city>TIRUPATHI</city>
+<city>Kadapa</city>
+<city>Guntur</city>
+<city>vizag</city>
+<city>chittoor</city>
+<city>nellore</city>
+</state>
+<state name="TAMILNADU">
+<city>MADURAI</city>
+<city>TANGAVUR</city>
+<city>CHENNAI</city>
+<city>COIMBATUR</city>
+</state>
+<state name="telangana">
+<city>HYDERABAD</city>
+<city>KHAMAM</city>
+<city>MAHABOOB NAGAR</city>
+</state>
+</country>
