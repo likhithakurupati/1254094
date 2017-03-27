@@ -1,0 +1,1 @@
+create table registration2(FName varchar(40),LName varchar(40), DoB varchar(20), Gender varchar(20),Email varchar (30),PhoneNumber varchar(10),PassWord varchar(15),UserName varchar(30))
